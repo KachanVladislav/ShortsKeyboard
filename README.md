@@ -5,6 +5,7 @@
 * ./3dmodel/ - модель корпуса + недоделанная кнопка включения
 * ./shortKeyboard_sch/ - принципиальная схема основной платы
 * ./shortKeyboard_esp32/ - исходник на esp32 - может вставить как submodule?
+* ./auxiliary/
 
 ![](blockDiagram.png)
 
