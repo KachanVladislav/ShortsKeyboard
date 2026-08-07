@@ -65,5 +65,3 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
-
-shortKeyboard_esp32
