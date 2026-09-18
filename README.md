@@ -8,7 +8,7 @@
 * ./auxiliary/
 
 ![](blockDiagram.png)
-
+![alt text](image.png)
 ## TODO
 
 * допаять схему
