@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "lw_kicadLib") (type "KiCad") (uri "D:/useful/!projects_new/lw_kicadLib.pretty") (options "") (descr ""))
+	(lib (name "lw_kicadLib") (type "KiCad") (uri "D:/useful/!projects_new/lw_kicadLib/lw_kicadLib.pretty") (options "") (descr ""))
+)
